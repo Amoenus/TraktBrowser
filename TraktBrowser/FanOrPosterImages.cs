@@ -2,7 +2,7 @@ using Newtonsoft.Json;
 using System;
 namespace TraktBrowser
 {
-	public class FanOrPorserImages
+	public class FanOrPosterImages
 	{
 		[JsonProperty("poster")]
 		public string Poster
